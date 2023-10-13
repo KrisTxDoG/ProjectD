@@ -8,8 +8,6 @@ CarList
 -Tesla model3
 -Honda X6
 -Bicycle
-<<<<<<< HEAD
 -我也愛你
-=======
 -天天我愛你
->>>>>>> b57b15fe6329b4cc2836e5ad5094408b32f7c274
+-程式碼好難
